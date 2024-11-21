@@ -5,9 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModels/LanguageModel.uasset",
+				"C:/Users/hcelab/Documents/Unreal Projects/Teller/AR-Transcription-Project/VIVE_Files/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/hcelab/Documents/Unreal Projects/Teller/AR-Transcription-Project/VIVE_Files/Content/SpeechBubble.uasset",
 				"C:/Users/hcelab/Documents/Unreal Projects/Teller/VR_AR_Transcription_Vive/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/hcelab/Documents/Unreal Projects/Teller/VR_AR_Transcription_Vive/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModels/LanguageModel.uasset",
 				"C:/Users/hcelab/Documents/Unreal Projects/CAD_XR_5_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/hcelab/Documents/Unreal Projects/CAD_XR_5_1/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/hcelab/Documents/Unreal Projects/CAD_XR_5_1/Content/Models/tractor/Geometries/Body1_76.uasset",
