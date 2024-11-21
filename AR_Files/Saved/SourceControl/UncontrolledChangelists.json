@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModels/LanguageModel.uasset",
+				"C:/Users/hcelab/Documents/Unreal Projects/Teller/AR-Transcription-Project/AR_Files/Content/NewMap.umap"
+			]
+		}
+	]
+}
